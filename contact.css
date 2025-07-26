@@ -1,3 +1,182 @@
-*{
+h1{
     text-align:center;
+    border-bottom:0.5px solid grey;
+}
+h5{
+    font-size:20px;
+    margin-left:300px;
+}
+hr{
+    width:900px;
+    height:0.1px;
+}
+.mid{
+    display:flex;
+    justify-content:center;
+}
+.box1{
+    height:100px;
+    width:800px;
+    display:flex;
+    justify-content:space-evenly;  
+
+}
+.input-box{
+    margin:10px;
+    
+}
+.input-box input {
+    height:30px;
+    width:320px;
+    border-radius:5px;
+  
+}
+.input-box1{
+    margin:10px;
+
+}
+.input-box1 input{
+    height:30px;
+    width:320px;
+    border-radius:5px;
+}
+
+.mid2{
+    display:flex;
+    justify-content:center;
+}
+.box2{
+    height:100px;
+    width:800px;
+    display:flex;
+    justify-content:space-evenly;
+
+}
+.input-box{
+    margin:10px;
+}
+.input-box input {
+    height:30px;
+    width:320px;
+    border-radius:5px;
+  
+}
+.input-box{
+    margin:10px;
+}
+.input-box input{
+    height:30px;
+    width:320px;
+    border-radius:5px;
+}
+
+.mid3{
+    display:flex;
+    justify-content:center;
+}
+.box3{
+    height:100px;
+    width:800px;
+    display:flex;
+    justify-content:space-evenly;
+    
+}
+.input-box{
+    margin:10px;
+}
+.input-box input {
+    height:30px;
+    width:320px;
+    border-radius:5px;
+  
+}
+.input-box{
+    height:30px;
+    width:320px;
+    border-radius:5px;
+}
+.input-box input{
+    height:30px;
+    width:320px;
+    border-radius:5px;
+}
+.mid4{
+    display:flex;
+    justify-content:Center;
+}
+.box4{
+    height:100px;
+    width:800px;
+    display:flex;
+    justify-content:space-evenly;
+
+}
+.input-box{
+    margin:10px;
+}
+.input-box input {
+    height:30px;
+    width:320px;
+    border-radius:5px;
+  
+}
+.input-box4{
+    margin-top:26px;
+}
+.input-box4 input{
+    height:30px;
+    width:320px;
+    border-radius:5px;
+}
+.mid5{
+    display:flex;
+    justify-content:Center;
+}
+.box5{
+    height:100px;
+    width:800px;
+    display:flex;
+    justify-content:space-evenly;
+
+}
+.input-box{
+    margin:10px;
+}
+.input-box input {
+    height:30px;
+    width:320px;
+    border-radius:5px; 
+}
+.input-box{
+    margin:10px;
+}
+.input-box input{
+    height:30px;
+    width:320px;
+    border-radius:5px;
+}
+.comment{
+    height:180px;
+    display:flex;
+    justify-content:Center;
+    border-bottom:1px solid grey;
+    
+}
+button{
+    height:35px;
+    width:100px;
+    background-color:green;
+    border:1px solid black;
+    margin-left:600px;
+    font-size:15px;
+    font-weight:300;
+}   
+.input-box7 input{
+    height:150px;
+    width:700px;
+}
+button:hover{
+    opacity:0.5;
+    
+
 }
